@@ -1,0 +1,12 @@
+.abhi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer {
+    text-align: right;
+    color: midnightblue;
+  }
+  .btn-primary:hover:hover{
+    border-color: yellowgreen;
+ }
